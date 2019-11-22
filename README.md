@@ -83,18 +83,18 @@ or
 ng generate component components/heroes --spec=false -is
 ```
 
-<!-- # Create service
+# Create service without spec.ts
 ```javascript
-ng g s services/infoPagina --spec=false
+ng g s services/heroes --spec=false
 ```
 or
 ```javascript
-ng generate service services/infoPagina --spec=false
+ng generate service services/heroes --spec=false
 ```
 # Create project build to production
 ```javascript
 ng build --prod
-``` -->
+```
 
 <!-- # Server local
 install global ```sudo npm i -g http-server```

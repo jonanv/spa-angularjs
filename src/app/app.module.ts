@@ -4,9 +4,6 @@ import { NgModule } from '@angular/core';
 //Routes
 import { AppRoutingModule } from './app-routing.module';
 
-//Services
-
-
 //Components
 import { AppComponent } from './app.component';
 import { NavbarComponent } from './components/shared/navbar/navbar.component';

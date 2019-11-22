@@ -73,6 +73,16 @@ or
 ng generate component components/shared/navbar --spec=false
 ```
 
+# Create component without spec.ts and .css
+```javascript
+ng g c components/heroes --spec=false -is
+```
+or
+
+```javascript
+ng generate component components/heroes --spec=false -is
+```
+
 <!-- # Create service
 ```javascript
 ng g s services/infoPagina --spec=false

@@ -1,7 +1,7 @@
 <h1>Héroes <small>Marvel y DC</small></h1>
 <hr>
 <div class="card-columns">
-    <div class="card animated fadeIn fast" *ngFor="let heroe of heroes">
+    <div *ngFor="let heroe of heroes" class="card animated fadeIn fast">
         <img [src]="heroe.img" class="card-img-top" [alt]="heroe.nombre">
         <div class="card-body">
             <h5 class="card-title">{{ heroe.nombre }}</h5>
@@ -12,7 +12,7 @@
               Ver más...
             </button> -->
             <a href="#" class="btn btn-outline-primary btn-block">
-              Ver más...
+              Ver más link...
             </a>
         </div>
     </div>

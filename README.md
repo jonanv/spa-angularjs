@@ -12,6 +12,9 @@ https://jonanv.github.io/portafolio-angularjs/
 
 ![Portafolio angularjs](https://i.imgur.com/6BOG9Q9.png) -->
 
+<!-- http://ws.miladesign.ir/4
+https://psdreams.com/free-psd/16-flat-super-heroes-icons -->
+
 # Install dependences
 in ```spa-angularjs/```
 

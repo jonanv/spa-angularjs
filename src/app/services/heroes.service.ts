@@ -36,9 +36,9 @@ export class HeroesService {
       casa:"Marvel"
     },
     {
-      nombre: "Linterna Verde",
+      nombre: "Green Lantern",
       bio: "Poseedor del anillo de poder que posee la capacidad de crear manifestaciones de luz sólida mediante la utilización del pensamiento. Es alimentado por la Llama Verde (revisada por escritores posteriores como un poder místico llamado Starheart), una llama mágica contenida en dentro de un orbe (el orbe era en realidad un meteorito verde de metal que cayó a la Tierra, el cual encontró un fabricante de lámparas llamado Chang)",
-      img: "assets/img/linterna-verde.png",
+      img: "assets/img/green-lantern.png",
       aparicion: "1940-06-01",
       casa: "DC"
     },
@@ -55,6 +55,13 @@ export class HeroesService {
       img: "assets/img/wolverine.png",
       aparicion: "1974-11-01",
       casa: "Marvel"
+    },
+    {
+      nombre: "Wonder Woman",
+      bio: "El personaje es una princesa guerrera de las Amazonas, está dotada de una amplia gama de poderes superhumanos y habilidades de combate de batalla superiores, gracias a sus dones obtenidos de los dioses y su amplio entrenamiento. Ella posee un gran arsenal de armas, incluyendo entre las principales el Lazo de la Verdad, un par de brazaletes mágicos indestructibles, su tiara, que sirve como arma.",
+      img: "assets/img/wonder-woman.png",
+      aparicion: "1941-12-01",
+      casa: "DC"
     }
   ];
 

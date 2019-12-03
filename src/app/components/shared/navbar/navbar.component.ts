@@ -17,6 +17,7 @@ export class NavbarComponent implements OnInit {
   }
 
   buscarHeroe(termino: string) {
+    // TODO: El termino tiene que ser mayor a un caracter
     let heroesArray = this.heroesService.buscarHeroes(termino);
     console.log(heroesArray);
     this.router.navigate(['/buscador', termino]);

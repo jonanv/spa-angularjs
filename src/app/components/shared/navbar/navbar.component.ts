@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { Router } from '@angular/router';
 import { HeroesService } from '../../../services/heroes.service';
 
 @Component({
@@ -8,7 +9,9 @@ import { HeroesService } from '../../../services/heroes.service';
 })
 export class NavbarComponent implements OnInit {
 
-  constructor(private heroesService: HeroesService) { }
+  constructor(
+    private router: Router,
+    private heroesService: HeroesService) { }
 
   ngOnInit() {
   }
@@ -16,5 +19,6 @@ export class NavbarComponent implements OnInit {
   buscarHeroe(termino: string) {
     let heroesArray = this.heroesService.buscarHeroes(termino);
     console.log(heroesArray);
+    this.router.navigate(['/buscador', termino]);
   }
 }

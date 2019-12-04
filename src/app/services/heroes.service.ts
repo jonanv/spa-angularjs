@@ -62,7 +62,70 @@ export class HeroesService {
       img: "assets/img/wonder-woman.png",
       aparicion: "1941-12-01",
       casa: "DC"
-    }
+    },
+    {
+      nombre: "Captain America",
+      bio: "El Capitán América fue diseñado como un supersoldado patriota que luchaba frecuentemente contra las potencias del Eje en la Segunda Guerra Mundial, y fue el personaje más popular de Timely Comics durante el período de guerra. Viste un traje que lleva un motivo de la bandera de los Estados Unidos, y utiliza un escudo casi indestructible que lanza como proyectil.",
+      img: "assets/img/captain-america.png",
+      aparicion: "1941-03-01",
+      casa: "Marvel"
+    },
+    {
+      nombre: "Cyclops",
+      bio: "Cíclope puede emitir potentes rayos de energía de sus ojos. No puede controlar las descargas sin la ayuda de gafas especiales que debe usar en todo momento. Él es generalmente considerado el primero de los X-Men, un equipo de héroes mutantes que luchan por la paz y la igualdad entre mutantes y humanos, y uno de los principales líderes del equipo.",
+      img: "assets/img/cyclops.png",
+      aparicion: "1963-01-01",
+      casa: "Marvel"
+    },
+    {
+      nombre: "Flash",
+      bio: "Apodado el \"Corredor Escarlata\", tiene la capacidad de correr, moverse y pensar extremadamente rápido, también puede atravesar la materia sólida, usar reflejos sobrehumanos y aparentemente violar ciertas leyes de la física, como superar la velocidad de la luz.",
+      img: "assets/img/flash.png",
+      aparicion: "1940-01-01",
+      casa: "DC"
+    },
+    {
+      nombre: "Green Arrow",
+      bio: "A veces se muestra vestido como el personaje de Robin Hood, Green Arrow es un arquero que usa sus habilidades para combatir el crimen en sus ciudades natales de Star City y Seattle, así como junto a sus compañeros superhéroes como miembro de la Liga de la Justicia.",
+      img: "assets/img/green-arrow.png",
+      aparicion: "1941-01-01",
+      casa: "DC"
+    },
+    {
+      nombre: "Iron Man",
+      bio: "Anthony Edward Stark, más conocido como Tony Stark, un millonario magnate empresarial estadounidense, playboy e ingenioso científico, sufre una grave lesión en el pecho durante un secuestro. Cuando sus captores intentan forzarlo a construir un arma de destrucción masiva crea, en cambio, una armadura poderosa para salvar su vida y escapar del cautiverio. Más tarde, Stark desarrolla su traje, agregando armas y otros dispositivos tecnológicos que diseñó a través de su compañía, Industrias Stark.",
+      img: "assets/img/iron-man.png",
+      aparicion: "1963-03-01",
+      casa: "Marvel"
+    },
+    {
+      nombre: "Mr. Fantastic",
+      bio: "El personaje es miembro fundador de los Cuatro Fantásticos. Richards posee un dominio de la ingeniería mecánica, aeroespacial y eléctrica, la química, todos los niveles de la física y la biología humana y alienígena.",
+      img: "assets/img/mr-fantastic.png",
+      aparicion: "1961-01-01",
+      casa: "Marvel"
+    },
+    {
+      nombre: "Robin",
+      bio: "Joven héroe compañero de Batman. El nombre de Robin, el Chico Maravilla y su atuendo fue inspirado en el héroe legendario Robin Hood, el color rojo del traje imita al de un ave americana (el tordo de pecho rojo o Turdus migratorius, también llamado en inglés Robin o American Robin \"petirrojo\", que no debe confundirse con Robin que habita en Europa), siguiendo el patrón de animal volador de Batman.",
+      img: "assets/img/robin.png",
+      aparicion: "1940-04-01",
+      casa: "DC"
+    },
+    {
+      nombre: "Shazam",
+      bio: "\"SHAZAM\" (Acrónimo de seis \"ancianos inmortales\": Salomón, Hércules, Atlas, Zeus, Aquiles y Mercurio), puede transformarse en un adulto disfrazado con los poderes de fuerza sobrehumana, velocidad, vuelo y otras habilidades.",
+      img: "assets/img/shazam.png",
+      aparicion: "1940-02-01",
+      casa: "DC"
+    },
+    {
+      nombre: "Superman",
+      bio: "Superman relata que nació con el nombre de Kal-El en el planeta Krypton; su padre, el científico Jor-El, y su madre Lara Lor-Van, lo enviaron en una nave espacial con destino a la Tierra cuando era un niño, momentos antes de la destrucción de su planeta. Fue descubierto y adoptado por Jonathan Kent y Martha Kent, una pareja de granjeros de Smallville, Kansas, que lo criaron con el nombre de Clark Kent y le inculcaron un estricto código moral. El joven Kent comenzó a mostrar habilidades superhumanas, las mismas que al llegar a su madurez decidiría usar para el beneficio de la humanidad.",
+      img: "assets/img/superman.png",
+      aparicion: "1938-06-01",
+      casa: "DC"
+    },
   ];
 
   constructor() {

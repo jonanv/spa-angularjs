@@ -7,10 +7,10 @@
 [![Angular JS][angular-badge]][angular-url]
 [![License][license-badge]][license-url]
 
-<!-- # Site
+# Site
 https://jonanv.github.io/portafolio-angularjs/
 
-![Portafolio angularjs](https://i.imgur.com/6BOG9Q9.png) -->
+[Heroes angularjs](https://i.imgur.com/4IWMgB3.png)
 
 <!-- http://ws.miladesign.ir/4
 https://psdreams.com/free-psd/16-flat-super-heroes-icons -->
@@ -99,7 +99,7 @@ ng generate service services/heroes --spec=false
 ng build --prod
 ```
 
-<!-- # Server local
+# Server local
 install global ```sudo npm i -g http-server```
 
 deploy in ```/spa-angularjs/dist/spa-angularjs/```
@@ -110,7 +110,7 @@ http-server
 or
 ```javascript
 http-server -o
-``` -->
+```
 
 [npm-badge]: https://img.shields.io/badge/npm-v6.9.0-brightgreen.svg
 [npm-url]: https://www.npmjs.com

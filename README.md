@@ -10,7 +10,7 @@
 # Site
 https://jonanv.github.io/portafolio-angularjs/
 
-![Heroes angularjs](https://i.imgur.com/4IWMgB3.png)
+![spa angularjs](https://i.imgur.com/4IWMgB3.png)
 
 # Resources
 1. [miladesing](http://ws.miladesign.ir/4)

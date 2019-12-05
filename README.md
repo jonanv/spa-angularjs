@@ -8,7 +8,7 @@
 [![License][license-badge]][license-url]
 
 # Site
-https://jonanv.github.io/portafolio-angularjs/
+https://jonanv.github.io/spa-angularjs/
 
 ![spa angularjs](https://i.imgur.com/4IWMgB3.png)
 

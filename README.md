@@ -10,10 +10,11 @@
 # Site
 https://jonanv.github.io/portafolio-angularjs/
 
-[Heroes angularjs](https://i.imgur.com/4IWMgB3.png)
+![Heroes angularjs](https://i.imgur.com/4IWMgB3.png)
 
-<!-- http://ws.miladesign.ir/4
-https://psdreams.com/free-psd/16-flat-super-heroes-icons -->
+# Resources
+1. [miladesing](http://ws.miladesign.ir/4)
+2. [psdreams](https://psdreams.com/free-psd/16-flat-super-heroes-icons)
 
 # Install dependences
 in ```spa-angularjs/```

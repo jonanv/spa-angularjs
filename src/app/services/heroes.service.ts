@@ -129,7 +129,7 @@ export class HeroesService {
   ];
 
   constructor() {
-    console.log('Servicio listo para usar!!!');
+    // console.log('Servicio listo para usar!!!');
   }
 
   getHeroes(): Heroe[] {
